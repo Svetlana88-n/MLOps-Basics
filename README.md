@@ -42,9 +42,9 @@ uv run ty check
 .
 ├── src/
 │   └── mlops_basics/
-│       ├── __init__.py   # rmse, mae, main
-│       └── __main__.py   # python -m mlops_basics entry point
-├── pyproject.toml        # project metadata, Ruff and ty config
+│       ├── __init__.py  
+│       └── __main__.py  
+├── pyproject.toml       
 ├── uv.lock
 └── README.md
 ```
